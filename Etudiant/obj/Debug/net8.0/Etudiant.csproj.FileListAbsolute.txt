@@ -1,0 +1,14 @@
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\bin\Debug\net8.0\Etudiant.exe
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\bin\Debug\net8.0\Etudiant.deps.json
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\bin\Debug\net8.0\Etudiant.runtimeconfig.json
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\bin\Debug\net8.0\Etudiant.dll
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\bin\Debug\net8.0\Etudiant.pdb
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.AssemblyInfoInputs.cache
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.AssemblyInfo.cs
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.csproj.CoreCompileInputs.cache
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.dll
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\refint\Etudiant.dll
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.pdb
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\Etudiant.genruntimeconfig.cache
+D:\UNIVERSITE\DIC3\C# et.NET\ARENDRE1-03-25\Etudiant\Etudiant\Etudiant\obj\Debug\net8.0\ref\Etudiant.dll
